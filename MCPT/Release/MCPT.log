@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\jly\course\cg\mcpt\mcpt\main.cpp(28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\jly\course\cg\mcpt\mcpt\main.cpp(36): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(133): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(135): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\jly\course\cg\mcpt\mcpt\main.cpp(190): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  81 of 687 functions (11.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MCPT.vcxproj -> D:\jly\course\CG\MCPT\Release\MCPT.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\jly\course\cg\mcpt\mcpt\main.cpp(28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\jly\course\cg\mcpt\mcpt\main.cpp(36): warning C4305: “参数”: 从“double”到“float”截断
+  MCPT.vcxproj -> D:\jly\course\CG\MCPT\Debug\MCPT.exe

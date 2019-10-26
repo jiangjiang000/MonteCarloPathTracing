@@ -1,0 +1,29 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 50.00 50.00 40.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.11 0.16 0.44
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Explorer_Default
+illum 4
+Kd 0.40 0.40 0.40
+Ka 0.00 0.00 0.00
+Ks 1.00 1.00 1.00
+Ns 1000
+newmtl mirror
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 1.00 1.00 1.00
+Ns 1000
+Ni 0.0
+newmtl wall
+illum 4
+Kd 0.50 0.00 0.00
+Ka 0.00 0.00 0.00

@@ -1,0 +1,20 @@
+﻿  main.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+d:\jly\course\cg\mcpt\mcpt\main.cpp(79): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(92): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(93): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(106): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(108): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(109): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(110): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(111): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(112): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(125): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\main.cpp(126): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码
+d:\jly\course\cg\mcpt\mcpt\model.cpp(194): warning C4715: “Model::LoadMaterial”: 不是所有的控件路径都返回值
+  118 of 682 functions (17.3%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    67 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MCPT.vcxproj -> D:\jly\course\CG\MCPT\x64\Release\MCPT.exe

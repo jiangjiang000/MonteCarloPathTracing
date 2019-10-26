@@ -1,0 +1,8 @@
+﻿  MonteCarloPathTrace.cpp
+d:\jly\course\cg\mcpt\mcpt\boundingbox.h(7): warning C4099: “Intersection”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\jly\course\cg\mcpt\mcpt\utlis.h(340): note: 参见“Intersection”的声明
+d:\jly\course\cg\mcpt\mcpt\montecarlopathtrace.cpp(29): warning C4305: “参数”: 从“double”到“float”截断
+d:\jly\course\cg\mcpt\mcpt\montecarlopathtrace.cpp(198): warning C4101: “theta”: 未引用的局部变量
+d:\jly\course\cg\mcpt\mcpt\montecarlopathtrace.cpp(198): warning C4101: “phi”: 未引用的局部变量
+d:\jly\course\cg\mcpt\mcpt\montecarlopathtrace.cpp(291): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  MCPT.vcxproj -> D:\jly\course\CG\MCPT\x64\Debug\MCPT.exe
